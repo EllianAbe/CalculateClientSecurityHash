@@ -21027,9 +21027,9 @@
     "restore": {
       "projectUniqueName": "CalculateClientSecurityHash",
       "projectName": "CalculateClientSecurityHash",
-      "projectPath": "C:\\Users\\el-li\\Documents\\UiPath\\CalculateClientSecurityHash\\.local",
+      "projectPath": "C:\\Repositories\\UiPath\\CalculateClientSecurityHash\\.local",
       "packagesPath": "C:\\Users\\el-li\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\el-li\\Documents\\UiPath\\CalculateClientSecurityHash\\.local",
+      "outputPath": "C:\\Repositories\\UiPath\\CalculateClientSecurityHash\\.local",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ]

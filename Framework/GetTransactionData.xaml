@@ -11,7 +11,7 @@
   <VisualBasic.Settings>
     <x:Null />
   </VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1847.111111111111,3712.8888888888887</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1709.3333333333333,3712.8888888888887</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>GetTransactionData_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -199,7 +199,7 @@
                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
-                <If Condition="[io_dt_TransactionData.RowCount() &gt; in_TransactionNumber]" sap:VirtualizedContainerService.HintSize="510.22222222222223,357.3333333333333" sap2010:WorkflowViewState.IdRef="If_4">
+                <If Condition="[io_dt_TransactionData.RowCount() &gt;= in_TransactionNumber]" sap:VirtualizedContainerService.HintSize="510.22222222222223,357.3333333333333" sap2010:WorkflowViewState.IdRef="If_4">
                   <If.Then>
                     <Sequence sap:VirtualizedContainerService.HintSize="476.44444444444446,173.33333333333334" sap2010:WorkflowViewState.IdRef="Sequence_13">
                       <sap:WorkflowViewStateService.ViewState>

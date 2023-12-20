@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vKbe9nLbY/0nDric5yVfksso9Caug4nAhRYtVVYVTrgFe+4kEF/taK3rME6EUMZbHc0qkFj2xFRt6JDJstpOPw==",
+  "dgSpecHash": "KK0Vf9vWZJh1GyqWUhYBQ4+4xgmKb2oBrCK+Ttx/IoK124G/3W6nCId8LRAJmcMFdy1c3bVxw9OvF7IcLgKQ5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\el-li\\Documents\\UiPath\\CalculateClientSecurityHash\\.local\\",
+  "projectFilePath": "C:\\Repositories\\UiPath\\CalculateClientSecurityHash\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\el-li\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\el-li\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
